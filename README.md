@@ -1,2 +1,2 @@
 # Issira
- A virtual assistent
+ a Virtual Voice Assistent
